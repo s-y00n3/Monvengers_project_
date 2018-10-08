@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - weapon
+  - dust
+  - wall
+  - monstercard
+  - monster
+  - stopDust
+  - air
+  - stage1
+  - stage2
+  - stage3
+  - stage4
+  - stage5
+  - stage6
+  - stage7
+  - stage8
+  - stage9
+  - gr_air
+  - gru
+  - next_button
+  - menu_button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 545480095
+    locked: 0
+  - name: fieldTile
+    uniqueID: 2471191035
+    locked: 0
+  - name: monster
+    uniqueID: 3603849683
+    locked: 0
+  - name: dust
+    uniqueID: 1102393599
+    locked: 0
+  - name: weapon
+    uniqueID: 1758001079
+    locked: 0
+  - name: air
+    uniqueID: 1764306119
+    locked: 0
+  - name: air_count
+    uniqueID: 1237825731
+    locked: 0
+  - name: monster card
+    uniqueID: 3739992133
+    locked: 0
+  - name: gr_air
+    uniqueID: 2361851929
+    locked: 0
+  - name: layout
+    uniqueID: 1523331281
+    locked: 0
+  - name: alert
+    uniqueID: 1655203237
+    locked: 0

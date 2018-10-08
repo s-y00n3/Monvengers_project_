@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MenuCtrl.cs">
+    <Files>
+      <File FileName="Assets\Script\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Dust.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\heartAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Monster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ClickManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AppleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SetScreenSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DongGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MonsterMintor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlertManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Stage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MenuCtrl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
